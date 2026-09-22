@@ -1,4 +1,0 @@
-streamlit==1.64.0
-crewai==1.15.22
-ddgs==9.16.0
-groq
